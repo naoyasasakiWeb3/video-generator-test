@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Video Trend Generator",
+  "description": "An AI-powered application that discovers trending topics, generates creative video prompts from them, and produces stunning videos using Google's Veo model.",
+  "requestFramePermissions": []
+}
